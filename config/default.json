@@ -1,0 +1,5 @@
+{
+  "MONGO_URI": "mongodb+srv://asmaa:asmaa@cluster0-lodmq.mongodb.net/devconnector?retryWrites=true&w=majority",
+  "JwtSecret": "asmaa",
+  "githubToken": "da7521e410cab9bb5d2a3d33a19957be80df1b0b"
+}
